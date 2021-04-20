@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/web/NovoLivro.jsp</file>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/web/style.css</file>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/src/java/DAO/LoginDao.java</file>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/src/java/Controller/Logout.java</file>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/web/index.jsp</file>
-            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Livraria/src/java/Controller/Login.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
